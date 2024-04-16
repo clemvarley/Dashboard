@@ -709,3 +709,30 @@ INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 428-776-401
 INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtnetwork.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtopengl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtpositioning.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtpurchasing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtquick.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtquickcontrols2.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtremoteobjects.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
