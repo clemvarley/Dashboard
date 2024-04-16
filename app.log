@@ -736,3 +736,240 @@ INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anacon
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtsensors.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtsql.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtsvg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qttest.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtuitools.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtwebchannel.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtwebenginequick.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtwebenginewidgets.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtwidgets.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtwinextras.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtxml.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_qtxmlpatterns.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_sip.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\qtpy\\tests\\test_uic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\queuelib\\tests\\test_pqueue.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\queuelib\\tests\\test_queue.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\queuelib\\tests\\test_rrqueue.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\commands\\wizard.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\tests\\conftest.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\appdirs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\artifacts.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\config.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\detect.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\format.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\validators.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\repo_cli\\utils\\yaml.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\adapters\\fingerprint.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\adapters\\host_header_ssl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\adapters\\socket_options.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\adapters\\x509.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\auth\\handler.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\auth\\_digest_auth_compat.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\cookies\\forgetful.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\downloadutils\\stream.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\downloadutils\\tee.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\threaded\\pool.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\certifi\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\requests_toolbelt\\threaded\\thread.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\certifi\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\certifi\\core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\charset_normalizer\\api.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\uts46data.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\intranges.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\package_data.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\idnadata.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\core.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\compat.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\idna\\codec.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\connection.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\charset_normalizer\\cli\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\charset_normalizer\\cli\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\util\\url.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\util\\timeout.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\cv203792\\OneDrive - Lotus Cars\\Documents\\Apprenticeship\\Module Challenges\\02 Developing Data Projects\\Assessment\\Dashboard (Workspace)\\dashboard\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-453-969
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\arguments.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\ast.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\change.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\codeanalyze.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\evaluate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\fscommands.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\history.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\nameanalyze.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\rope\\base\\prefs.py', reloading
