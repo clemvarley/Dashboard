@@ -1187,3 +1187,1491 @@ INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anacon
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\cluster\\hierarchy.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\cluster\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\cluster\\vq.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\constants\\codata.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\constants\\constants.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\constants\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\datasets\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\datasets\\_registry.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fft\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fft\\_debug_backends.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fftpack\\basic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fftpack\\helper.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fftpack\\realtransforms.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\fftpack\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\dop.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\lsoda.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\odepack.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\quadpack.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\vode.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\_bvp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\integrate\\_quad_vec.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\fitpack.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\fitpack2.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\interpolate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\ndgriddata.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\polyint.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\rbf.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\_fitpack_impl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\_interpnd_info.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\_rbf.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp_pythran.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\harwell_boeing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\idl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\netcdf.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\wavfile.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\_fortran.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\_idl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\_mmio.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\io\\_netcdf.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\basic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\decomp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\decomp_cholesky.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\decomp_lu.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\decomp_qr.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\decomp_schur.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\flinalg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\interpolative.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\matfuncs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\misc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_cython_signature_generator.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_expm_frechet.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_flinalg_py.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_generate_pyx.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_interpolative_backend.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_inv_ssq.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm_triu.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\linalg\\_testutils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\misc\\common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\misc\\doccer.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\misc\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\filters.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\fourier.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\measurements.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\morphology.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\_ni_docstrings.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\ndimage\\_ni_support.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\odr\\models.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\odr\\odrpack.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\odr\\_add_newdocs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\cobyla.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\lbfgsb.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\linesearch.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\minpack2.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\moduleTNC.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\nonlin.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\slsqp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\tnc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\zeros.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_cobyla_py.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_constraints.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_differentialevolution.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_direct_py.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_dual_annealing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_group_columns.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_hessian_update_strategy.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_lbfgsb_py.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linesearch.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linprog.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linprog_highs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linprog_ip.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linprog_simplex.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_linprog_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_milp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_nnls.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_numdiff.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_qap.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_shgo.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_slsqp_py.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_spectral.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_trustregion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_trustregion_dogleg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_trustregion_krylov.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\optimize\\_trustregion_ncg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\bsplines.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\filter_design.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\fir_filter_design.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\lti_conversion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\signaltools.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\spline.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\waveforms.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\wavelets.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_max_len_seq.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_savitzky_golay.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_spectral.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_upfirdn.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\base.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\bsr.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\compressed.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\construct.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\coo.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\csr.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\data.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\dia.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\extract.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\sparsetools.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\sputils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_compressed.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_data.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_generate_sparsetools.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_index.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_matrix.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_spfuncs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_sputils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\ckdtree.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\distance.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\kdtree.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\qhull.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_geometric_slerp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_procrustes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\add_newdocs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\basic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\orthogonal.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\sf_error.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\specfun.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_add_newdocs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_generate_pyx.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_lambertw.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_mptestutils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_orthogonal.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_sf_error.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\biasedurn.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\contingency.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\kde.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\mstats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\mstats_basic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\mvn.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\qmc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\stats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_binomtest.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_censored_data.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_constants.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_covariance.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_crosstab.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_distr_params.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_fit.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_generate_pyx.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_kde.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_ksstats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_mannwhitneyu.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_mstats_basic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_mstats_extras.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_odds_ratio.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_page_trend_test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_qmc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_qmvnt.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_relative_risk.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_result_classes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_rvs_sampling.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_stats_pythran.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_variation.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_build_utils\\compiler_helper.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_build_utils\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_build_utils\\tempita.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_build_utils\\_fortran.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_build_utils\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\deprecation.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\doccer.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\uarray.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_bunch.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_ccallback.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_disjoint_set.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_docscrape.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_gcutils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_highs_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_testutils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_threadsafety.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_tmpdirs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scipy\\_lib\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\bench.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\check.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\edit.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\fetch.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\list.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\parse.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\settings.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\shell.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\version.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\commands\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\contracts\\default.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\contracts\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\core\\scheduler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\core\\scraper.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\core\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\ajaxcrawl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\decompression.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\defaultheaders.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\httpauth.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\httpcache.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\httpproxy.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\redirect.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\retry.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\robotstxt.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\stats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\downloadermiddlewares\\useragent.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\closespider.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\corestats.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\debug.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\feedexport.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\httpcache.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\memdebug.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\memusage.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\spiderstate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\telnet.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\extensions\\throttle.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\http\\common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\http\\cookies.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\http\\headers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\linkextractors\\lxmlhtml.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\linkextractors\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\loader\\processors.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\loader\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\pipelines\\images.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\pipelines\\media.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\settings\\default_settings.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\settings\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spidermiddlewares\\depth.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spidermiddlewares\\offsite.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spidermiddlewares\\referer.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spidermiddlewares\\urllength.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spiders\\crawl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spiders\\feed.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\spiders\\init.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\asyncgen.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\benchserver.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\boto.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\console.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\curl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\datatypes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\defer.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\deprecate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\engine.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\ftp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\httpobj.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\iterators.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\job.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\misc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\ossignal.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\project.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\reactor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\reqser.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\response.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\serialize.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\signal.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\spider.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\ssl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\testproc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\trackref.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\scrapy\\utils\\url.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\colors\\crayons.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\colors\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\external\\docscrape.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\external\\kde.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\external\\version.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\data.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\exceptions.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\groupby.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\moves.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\properties.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\rules.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\scales.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_core\\typing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_marks\\area.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_marks\\bar.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_marks\\base.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_marks\\line.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_marks\\text.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_stats\\aggregation.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_stats\\base.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_stats\\counting.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_stats\\order.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\seaborn\\_stats\\regression.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\alias.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\bdist_rpm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\build_clib.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\build_ext.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\dist_info.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\easy_install.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\egg_info.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\install.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\install_egg_info.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\install_scripts.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\register.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\rotate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\sdist.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\setopt.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\upload.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\command\\upload_docs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\config\\expand.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\config\\setupcfg.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\extern\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\errors.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\log.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\version.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\_log.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
+INFO:werkzeug: * Detected change in 'C:\\Users\\cv203792\\AppData\\Local\\anaconda3\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 428-776-401
